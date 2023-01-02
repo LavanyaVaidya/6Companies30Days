@@ -1,2 +1,2 @@
 # 6Companies30Days
-Solutions of 90 important questions asked in various top companies.
+Solutions to important questions asked in various top companies.
