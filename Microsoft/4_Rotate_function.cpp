@@ -13,6 +13,6 @@ public:
             dp[i] = dp[i-1] - sum + n*nums[i-1];
             ans = max(ans,dp[i-1]);
         }
-        return max(ans,dp[n-1]);
+        return max(ans,dp[n-1]); 
     }
 };
